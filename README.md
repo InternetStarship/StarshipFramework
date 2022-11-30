@@ -4,12 +4,16 @@ Open source NextJS framework used as base for each project featured on StarshipC
 
 ## Getting Started
 
-First, run the development server:
+First, install the dependencies:
+
+```bash
+npm install
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -17,3 +21,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Credits & Dependencies
+
+[NextJS License](https://github.com/vercel/next.js/blob/canary/license.md)
+
+[Polaris Shopify MIT License](https://github.com/Shopify/polaris)
+
+[Supabase React License](https://github.com/tmm/react-supabase/blob/main/LICENSE)
+
+[TailwindCSS License](https://tailwindui.com/license)
