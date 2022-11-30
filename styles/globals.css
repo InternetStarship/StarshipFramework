@@ -1,1 +1,9 @@
+/* TailwindCSS CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Shopify Polaris Components CSS */
 @import url("@shopify/polaris/build/esm/styles.css");
+
+/* Add your own CSS below */
