@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 import { useState } from "react";
 import { supabase } from "./supabaseClient";
 
@@ -22,6 +24,11 @@ export default function Auth() {
 
   return (
     <div className="bg-slate-200 w-full h-screen flex items-center justify-center">
+      <Head>
+        <title>Login</title>
+        <meta name="description" content="Sign into your account" />
+      </Head>
+
       <div className="col-6 form-widget">
         <h1 className="text-3xl text-center font-bold mb-1">Login</h1>
         <p className="text-center text-slate-600 font-medium mb-4">
