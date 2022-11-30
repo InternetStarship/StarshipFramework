@@ -6,4 +6,7 @@
 /* Shopify Polaris Components CSS */
 @import url("@shopify/polaris/build/esm/styles.css");
 
+/* Supabase Login */
+@import url("./supabase.css");
+
 /* Add your own CSS below */

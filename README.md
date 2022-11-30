@@ -16,6 +16,13 @@ Second, run the development server:
 npm run dev
 ```
 
+Third, create a file called `.env.local` with the following variables:
+
+```bash
+NEXT_PUBLIC_SUPABASE_URL= YOUR_SUPABASE_URL
+NEXT_PUBLIC_SUPABASE_ANON_KEY= YOUR_SUPABASE_ANON_KEY
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## License
