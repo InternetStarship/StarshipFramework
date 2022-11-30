@@ -28,6 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 [Polaris Shopify MIT License](https://github.com/Shopify/polaris)
 
+[Polaris Shopify ReactJS License](https://github.com/Shopify/polaris/blob/main/polaris-react/LICENSE.md)
+
 [Supabase React License](https://github.com/tmm/react-supabase/blob/main/LICENSE)
 
 [TailwindCSS License](https://tailwindui.com/license)
